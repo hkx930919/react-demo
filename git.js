@@ -3,4 +3,5 @@ function git(){
     var msg2 = '这是第三次修改';
     var msg3 = '这是第四次修改';
     var msg4 = '这是第五次修改';
+    var msg5 = '这是第六次修改';
 }
