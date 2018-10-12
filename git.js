@@ -7,5 +7,5 @@ function git(){
     var branch = "这是Dev分支"
     var branch = "这是feature1分支"
     var branch = "这是master分支"
-    
+    var branch2 = "这是Dev2分支"
 }
