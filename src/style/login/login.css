@@ -1,0 +1,11 @@
+.login{
+    height: 100%;
+}
+.login_top{
+    height: 65%;
+    background-color: #ccc;
+}
+.login_bottom{
+    height: 35%;
+    background-color: #dfe2fe;
+}

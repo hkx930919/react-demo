@@ -1,0 +1,54 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "react 后台管理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --open --config webpack.dev.js",
+    "build": "webpack --config webpack.pro.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkx930919/react-demo.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "hkx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkx930919/react-demo/issues"
+  },
+  "homepage": "https://github.com/hkx930919/react-demo#readme",
+  "dependencies": {
+    "antd": "^3.10.9",
+    "prop-types": "^15.6.2",
+    "rc-tween-one": "^2.2.18",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-import": "^1.11.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "clean-webpack-plugin": "^1.0.0",
+    "css-loader": "^1.0.1",
+    "file-loader": "^2.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "react-router": "^4.3.1",
+    "redux": "^4.0.1",
+    "style-loader": "^0.23.1",
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "url-loader": "^1.1.2",
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10",
+    "webpack-merge": "^4.1.4"
+  }
+}
