@@ -1,4 +1,4 @@
-import React,{Component} from 'C:/Users/13732/AppData/Local/Microsoft/TypeScript/2.9/node_modules/@types/react'
+import React,{Component} from 'react'
 // import Routes from '../router'
 export default class Login extends Component{
     constructor(props){

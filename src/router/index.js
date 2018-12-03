@@ -1,6 +1,6 @@
-import React from "C:/Users/13732/AppData/Local/Microsoft/TypeScript/2.9/node_modules/@types/react";
+import React from "react";
 
-import { HashRouter, Route, Switch } from "C:/Users/13732/AppData/Local/Microsoft/TypeScript/2.9/node_modules/@types/react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Login from "@pages/Login";
 import App from "@pages/App";
 export default () => (

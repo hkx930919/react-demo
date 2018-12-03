@@ -1,0 +1,18 @@
+.logo{
+    height: 100%;
+}
+.logo .animationDom{
+    width: 1038px;
+    height: 280px;
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%,-50%)
+}
+.logo .pointWrapped{
+    position: absolute;
+}
+ .pointWrapped .point{
+    position: absolute;
+    border-radius: 50%;
+}
