@@ -5,9 +5,9 @@ import Login from "@pages/Login";
 import App from "@pages/App";
 export default () => (
     <HashRouter>
-        <div className="router">
+        <Switch>
             <Route path="/login"exact component={Login} />
             <Route path="/" exact component={App} />
-        </div>
+        </Switch>
     </HashRouter>
 );

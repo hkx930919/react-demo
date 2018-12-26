@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import logo from "@images/login.png";
 import PropTypes from "prop-types";
 import "./index.css";
-import TweenOne from "../../../node_modules/_rc-tween-one@2.2.18@rc-tween-one";
+import TweenOne from "rc-tween-one";
 export default class Logo extends Component {
     constructor(props) {
         super(props);
